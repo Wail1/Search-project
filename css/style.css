@@ -7,7 +7,7 @@
 	width: 500px;
 	height: auto;
 	padding: 30px;
-	margin: 200px auto;
+	margin: 150px auto;
 }
 input[type=search]{
 	width: 73%;
@@ -42,8 +42,9 @@ button{
 h2{
   font-weight: 100;
   font-size: 23px;
-}
+  color: #1d0759;
+  }
 h1{
   color: #2612a8;
-  font-size: 43px;
+  font-size: 35px;
 }
